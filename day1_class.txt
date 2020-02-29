@@ -1,0 +1,104 @@
+1:what is programming?
+answer::Programming is the process of converting ideas into instructions 
+that computer can understand and execute.
+ instructions needs to be specific and sequential if not gets bugs(something unexpected happens)
+ and crash(program stops early freezes.
+
+2: in c++ hello world program is syntax 
+
+#include
+
+int main()
+{
+std::cout<<"Hello, world!";
+return 0;
+}
+
+3. javascript
+document.write('Hello, world!')
+
+4.python
+print"Hello, world!"  
+
+
+5.source code
+text editor to write source code .txt
+.py for python
+ ...> python is an interpreted language
+this means we have to interprete into machine code
+there are three ways to translate source code into machine code
+1.compile it
+2.interpret 
+3.combination of both
+ ...> thats what compilers do high level pgmng lang into 
+executable(low level machine code)
+ ....> interpreter do they process ur source code each time
+runs line by line 
+
+
+c,c++, objective c known as compiled languages
+php,javascript known as interpreted language
+java,c#,python as combination language
+
+ programmers use Integrated Development Environments
+ its used to provide speed up code development.
+IDE is an application that provides special tools to  write
+  to debug and compile it.
+
+xcode develop applications for apple, mac, phone, ipad
+visual studio code(vc code ) for scripting lang as javascript
+andriod studio for andriod applications
+ quiz :
+
+1..intellisense..,a unique feature of VS code, allows you to get 
+code suggestions while youre typing
+2.If you were developing an application 
+for an iPhone, which IDE would you use
+answer Xcode
+3.Which language does not use a hybrid
+ compiler/interpreter approach?
+answer c++
+4.Why doesn't a Python file execute when you double-click it?
+Double-clicking does not run the Python Interpreter on the source code.
+5.If you were writing your source code in the JavaScript programming language, what file extension would you use to save your file?
+answer .js
+6.Source code is written in rich text
+answer:False
+7.How would you write the "Hello, world!" program in Python?
+answer print("Hello wolrd!")
+8.In programming, a crash is when your program stops early or freezes because something unexpected happened.
+answer:TRUE
+9.Programming can be defined as: converting ideas into ..instructions.. that a computer can understand.
+
+top 5 languages
+java 
+python
+javascript
+c++
+c#
+
+easy python and javascript to understand
+
+::::java script is used for web applications and not used for non web applications
+::::python is used for web apps, internal company tools, 
+scientific analysis and games 
+ syntax is the rules of a programming language 
+ 
++-*/(operators) depends on order of operation
+P Parenthesis
+E Exponents
+MD Multiplication and division(left to right)
+AS Addition and subtraction(left to right)
+
+errors are of 3 types
+1.syntax languages rules broken
+2.runtime unable to execute  ( division by zero is undefined )
+3.semantic unexpected output
+
+
+
+
+
+
+
+
